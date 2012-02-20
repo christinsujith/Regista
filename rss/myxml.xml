@@ -1,0 +1,53 @@
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+    <products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  
+      
+        <item>  
+            <id>1</id>  
+            <name>iPhone</name>  
+            <category>Mobile</category>  
+            <price>300</price>  
+        </item>  
+      
+        <item>  
+            <id>2</id>  
+            <name>iMac</name>  
+            <category>Desktop Computers</category>  
+            <price>2500</price>  
+        </item>  
+      
+        <item>  
+            <id>3</id>  
+            <name>MacBook Pro</name>  
+            <category>Mobile PC</category>  
+            <price>2000</price>  
+        </item>  
+      
+        <item>  
+            <id>4</id>  
+            <name>iTouch</name>  
+            <category>Gadgets</category>  
+            <price>150</price>  
+        </item>  
+      
+        <item>  
+            <id>5</id>  
+            <name>Wii</name>  
+            <category>Gaming</category>  
+            <price>1250</price>  
+        </item>  
+      
+        <item>  
+            <id>6</id>  
+            <name>Time Capsule</name>  
+            <category>Acessories</category>  
+            <price>1000</price>  
+        </item>  
+      
+        <item>  
+            <id>7</id>  
+            <name>Apple TV</name>  
+            <category>Gadgets</category>  
+            <price>800</price>  
+        </item>  
+      
+    </products>  

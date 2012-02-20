@@ -1,0 +1,20 @@
+/** Readme **/
+
+1) create the database as regista(eg) in your hosting server
+
+2) open the follwing folder and open regista.sql file copy the content or upload the file 
+in your phpmyadmin under the regista database it will create the tables
+ -> regista\db\regista.sql
+
+3) open the follwing folder and open database.php file to change the database user name, password 
+and given db name as per you DB settings.
+
+regista\application\config\database.php
+
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'regista';
+
+4) upload the files to your hosting server using ftp in the root folder.
+
